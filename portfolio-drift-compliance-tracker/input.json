@@ -1,0 +1,51 @@
+{
+  "data": {
+    "account_owner": "John Doe",
+    "account_number": "TFSA-20261122",
+    "usd_cad_rate": 1.42,
+    "assets": [
+      {
+        "ticker": "VCN",
+        "exchange": "TSX",
+        "amount": 22000.0,
+        "description": "Vanguard FTSE Canada All Cap Index ETF",
+        "currency_of_denomination": "CAD"
+      },
+      {
+        "ticker": "IVV",
+        "exchange": "NYSE",
+        "amount": 18300.0,
+        "description": "iShares Core S&P 500 ETF",
+        "currency_of_denomination": "USD"
+      },
+      {
+        "ticker": "VIU",
+        "exchange": "TSX",
+        "amount": 15000.0,
+        "description": "Vanguard FTSE Developed All Cap ex North America Index ETF",
+        "currency_of_denomination": "CAD"
+      },
+      {
+        "ticker": "VEE",
+        "exchange": "TSX",
+        "amount": 7000.0,
+        "description": "Vanguard FTSE Emerging Markets All Cap Index ETF",
+        "currency_of_denomination": "CAD"
+      },
+      {
+        "ticker": "VAB",
+        "exchange": "TSX",
+        "amount": 25000.0,
+        "description": "Vanguard Canadian Aggregate Bond Index ETF",
+        "currency_of_denomination": "CAD"
+      },
+      {
+        "ticker": "CASH",
+        "exchange": "TSX",
+        "amount": 5000.0,
+        "description": "Cash/Cash Equivalents",
+        "currency_of_denomination": "CAD"
+      }
+    ]
+  }
+}

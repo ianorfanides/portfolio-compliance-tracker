@@ -1,0 +1,7 @@
+AccountNumber,AccountType,AccountOwner,Ticker,Exchange,Amount,Description
+MAR-112233,Margin,Jane Smith,VCN,TSX,10000.0,Vanguard FTSE Canada All Cap Index ETF
+MAR-112233,Margin,Jane Smith,VTI,NYSE,35000.0,Vanguard Total Stock Market ETF
+MAR-112233,Margin,Jane Smith,VIU,TSX,10000.0,Vanguard FTSE Developed All Cap ex North America Index ETF
+MAR-112233,Margin,Jane Smith,VEE,TSX,2000.0,Vanguard FTSE Emerging Markets Common Shares
+MAR-112233,Margin,Jane Smith,VAB,TSX,25000.0,Vanguard Canadian Aggregate Bond Index ETF
+MAR-112233,Margin,Jane Smith,CASH,CAD,5050.0,Cash holdings in Canadian Dollars

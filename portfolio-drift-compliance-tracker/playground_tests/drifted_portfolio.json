@@ -1,0 +1,32 @@
+{
+  "data": {
+    "aggregate_portfolio_value": 100000.0,
+    "account_type": "Margin",
+    "account_number": "MAR-99008877",
+    "account_owner": "Alastair Sterling",
+    "usd_cad_rate": 1.42,
+    "individual_assets": [
+      {
+        "ticker": "VCN",
+        "exchange": "TSX",
+        "currency_of_denomination": "CAD",
+        "amount_in_cad": 22000.0,
+        "description": "Vanguard FTSE Canada All Cap Index ETF (Canadian Equity Index Fund)"
+      },
+      {
+        "ticker": "IVV",
+        "exchange": "NYSE",
+        "currency_of_denomination": "USD",
+        "amount_in_cad": 50000.0,
+        "description": "iShares Core S&P 500 ETF (US Large Cap Equity Index)"
+      },
+      {
+        "ticker": "VAB",
+        "exchange": "TSX",
+        "currency_of_denomination": "CAD",
+        "amount_in_cad": 1000.0,
+        "description": "Vanguard Canadian Aggregate Bond Index ETF (Canadian Fixed Income)"
+      }
+    ]
+  }
+}

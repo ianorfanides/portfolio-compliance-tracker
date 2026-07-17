@@ -1,0 +1,53 @@
+{
+  "data": {
+    "aggregate_portfolio_value": 100000.0,
+    "account_type": "RRSP",
+    "account_number": "RSP-55443322",
+    "account_owner": "Clarissa Vance",
+    "usd_cad_rate": 1.42,
+    "individual_assets": [
+      {
+        "ticker": "VCN",
+        "exchange": "TSX",
+        "currency_of_denomination": "CAD",
+        "amount_in_cad": 22000.0,
+        "description": "Vanguard FTSE Canada All Cap Index ETF (Canadian Equity Index Fund)"
+      },
+      {
+        "ticker": "IVV",
+        "exchange": "NYSE",
+        "currency_of_denomination": "USD",
+        "amount_in_cad": 26000.0,
+        "description": "iShares Core S&P 500 ETF (US Large Cap Equity Index)"
+      },
+      {
+        "ticker": "XEF",
+        "exchange": "TSX",
+        "currency_of_denomination": "CAD",
+        "amount_in_cad": 15000.0,
+        "description": "iShares Core MSCI EAFE IMI Index ETF (Developed International Markets)"
+      },
+      {
+        "ticker": "ZEM",
+        "exchange": "TSX",
+        "currency_of_denomination": "CAD",
+        "amount_in_cad": 7000.0,
+        "description": "BMO MSCI Emerging Markets Index ETF (Emerging Markets Equities)"
+      },
+      {
+        "ticker": "VAB",
+        "exchange": "TSX",
+        "currency_of_denomination": "CAD",
+        "amount_in_cad": 25000.0,
+        "description": "Vanguard Canadian Aggregate Bond Index ETF (Canadian Fixed Income)"
+      },
+      {
+        "ticker": "CASH",
+        "exchange": "CAD",
+        "currency_of_denomination": "CAD",
+        "amount_in_cad": 5000.0,
+        "description": "Cash holdings in Canadian Dollars (Savings Account)"
+      }
+    ]
+  }
+}

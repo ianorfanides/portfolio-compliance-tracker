@@ -1,0 +1,13 @@
+[project]
+name = "portfolio-drift-compliance-tracker"
+version = "0.1.0"
+description = "Secure ADK 2.0 portfolio drift compliance tracker"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "google-adk>=2.0.0a0",
+    "pydantic>=2.0.0",
+    "python-dotenv>=1.0.0",
+    "fastapi>=0.100.0",
+    "uvicorn>=0.20.0"
+]
